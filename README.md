@@ -21,8 +21,9 @@ Tested 73.0.1 / 74.0 /  Windows 10 / Linux Default Dark Theme
 
 ![alt text](image/type.png)
 
+#Optional
+	- For blur style search and bookmarks bar, go to ```about:config``` set```layout.css.backdrop-filter.enabled``` and ```gfx.webrender.enabled``` to true.
 
 # Update
  - Adjust UI on ```about:home```
  ![](image/newtab.png)
-# Recommend
